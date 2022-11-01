@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Opeyemi</h1>
-<h3 align="center">A curious and passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A curious and passionate software from Nigeria</h3>
 
 <p>
   I am a Fullstack Engineer based in Lagos Nigeria with great problem solving skills. I also have a backgroung in Mechanical Engineering as a university major. My passion for problem solving has brought me into the field of Technology and I look to take on interesting and important challenges to shape the future of Nigeria and Africa at large. I am open to share my skills and talents with the right company. Feel free and take a  stroll accross my projects to get inspired 😌 or make contributions 🤝.
