@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Opeyemi</h1>
-<h3 align="center">A curious and passionate software from Nigeria</h3>
+<h3 align="center">A Software Engineer from Nigeria</h3>
 
 <p>
-  I am a Fullstack Engineer based in Lagos Nigeria with great problem solving skills. I also have a backgroung in Mechanical Engineering as a university major. My passion for problem solving has brought me into the field of Technology and I look to take on interesting and important challenges to shape the future of Nigeria and Africa at large. I am open to share my skills and talents with the right company. Feel free and take a  stroll accross my projects to get inspired 😌 or make contributions 🤝.
+  Experience the amazing accomplishments of an excellent software engineer! Explore projects that have pushed the boundaries of web development, blending stunning visuals with high-performance functionality..
 </p>
 
-- 👨‍💻 See my protfolio at [https://ogunbode-portfolio.onrender.com/](https://ogunbode-portfolio.onrender.com/)
+- 👨‍💻 See my protfolio here [portfolio](https://opeyemi-portfolio.framer.ai/)
 
 - 📝 Check out my articles on [https://medium.com/@ogunbodetimi](https://medium.com/@ogunbodetimi)
 
-- 📫 How to reach me **ogunbodetimi@gmail.com**
+- 📫 Reach me at **ogunbodetimi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tjc0kiTe7c842nnqndj2qiFsSSlOSSOl/view?usp=sharing](https://drive.google.com/file/d/1tjc0kiTe7c842nnqndj2qiFsSSlOSSOl/view?usp=sharing)
+- 📄 view my Resume here [Resume](https://drive.google.com/file/d/1tjc0kiTe7c842nnqndj2qiFsSSlOSSOl/view?usp=sharing)
 
 - ⚡ Fun fact **I used to be very scared of code 😂 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/roadsidedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roadsidedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/opeyemi ogunbode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="opeyemi ogunbode" height="30" width="40" /></a>
+<a href="https://twitter.com/roadsidedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roadsidedev" height="30" width="40" /></a>
 <a href="https://instagram.com/roadsidemeachnic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roadsidemeachnic" height="30" width="40" /></a>
 <a href="https://medium.com/@ogunbodetimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ogunbodetimi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/timi-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="timi-t" height="30" width="40" /></a>
