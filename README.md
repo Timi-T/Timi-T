@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
 <p>
-  Experience the amazing accomplishments of an excellent software engineer! Explore projects that have pushed the boundaries of web development, blending stunning visuals with high-performance functionality..
+  Experience my amazing accomplishments as an excellent software engineer! Explore projects that have pushed the boundaries of web development, blending stunning visuals with high-performance functionality..
 </p>
 
 - 👨‍💻 See my protfolio here [portfolio](https://opeyemi-portfolio.framer.ai/)
